@@ -6,7 +6,7 @@
 <h3 align="center">A CSE(IOT & CS & BCT) student from India 😎</h3>
 
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://github.com/xcriminal1/xcriminal/blob/root/MOSHED-2023-7-1-22-14-19.gif">
+<img align="right" alt="Coding" width="300" src="https://github.com/xcriminal1/xcriminal/blob/root/Project-cry.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xcriminal1&label=Profile%20views&color=0e75b6&style=flat" alt="xcriminal1" /> </p>
 
