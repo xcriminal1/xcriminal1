@@ -2,7 +2,7 @@
 )](https://xcriminal.io)
 
 
-<h1 align="center">Hi 👋, I'm Aman Singh</h1>
+<h1 align="center">Hi 👋, I'm Souvik Mondal</h1>
 <h3 align="center">A CSE(IOT & CS & BCT) student from Kolkata ,India 😎</h3>
 
 <h3 align="center">A passionate Backend developer and a Cyber Security enthusiast... always learning while coding... #php #js #nodejs.</h3>
@@ -15,11 +15,9 @@
 
 - 🌱 I’m currently learning **graphql**
 
-- 👨‍💻 Linktree :- [https://linktr.ee/amansingh_xcriminal](https://linktr.ee/amansingh_xcriminal)
-
 - 💬 Ask me about **Web3, CSS-HTML, JS**
 
-- 📫 How to reach me **aaryanamanaa19@gmail.com**
+- 📫 How to reach me **souvik8001mondal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
