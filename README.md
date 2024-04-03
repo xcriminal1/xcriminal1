@@ -16,10 +16,10 @@
 - 🌱 I’m currently learning **graphql**
 
 - 💬 Ask me about **Web3, CSS-HTML, JS**
-  
-- 👨‍💻 Linktree :- [https://linktr.ee/amansingh_xcriminal](https://linktr.ee/amansingh_xcriminal)
 
 - 📫 How to reach me **aaryanamanaa19@gmail.com**
+
+- 👨‍💻 Linktree :- [https://linktr.ee/amansingh_xcriminal](https://linktr.ee/amansingh_xcriminal)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
