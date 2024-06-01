@@ -6,7 +6,7 @@
 <h3 align="center">A CSE(IOT & CS & BCT) student from Kolkata ,India 😎</h3>
 
 <h3 align="center">A passionate Backend developer and a Cyber Security enthusiast... always learning while coding... #php #js #nodejs.</h3>
-<h3 align="centre">  Certified Cisco Network Associate --- Certified Ethical Hacker (Professional).</h3>
+<h3 align="center">                          Certified Cisco Network Associate --- Certified Ethical Hacker (Professional).</h3>
 <img align="right" alt="Coding" width="300" src="https://github.com/xcriminal1/xcriminal/blob/root/Project-cry.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xcriminal1&label=Profile%20views&color=469dd2&style=plastic" alt="xcriminal1" /> </p>
