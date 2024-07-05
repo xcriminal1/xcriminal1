@@ -16,29 +16,19 @@
 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I'm a Full Stack Developer and Cyber Security Enthusiast with a deep love for Python, React.js, Node.js, and REST APIs. When I'm not coding, I'm probably pretending to be a secret agent, hacking my way through digital mazes. Call me the code wizard with a penchant for cyber espionage! </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+- 📫 How to reach me **aaryanamanaa19@gmail.com**
+- 💻 Visit my [Portfolio](https://xcriminal.xyz) for more details about me.
 <!--End Intro-->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xcriminal1&label=Profile%20views&color=469dd2&style=plastic" alt="xcriminal1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/xcriminal007" target="blank"><img src="https://img.shields.io/twitter/follow/xcriminal007?logo=twitter&style=for-the-badge" alt="xcriminal007" /></a> </p>
-
-- 🌱 I’m currently learning **graphql**
-
-- 💬 Ask me about **Web3, CSS-HTML, JS**
-
-- 📫 How to reach me **aaryanamanaa19@gmail.com**
-
-- 👨‍💻 Linktree :- [https://linktr.ee/amansingh_xcriminal](https://linktr.ee/amansingh_xcriminal)
 
 
 
@@ -57,7 +47,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,react,git,github,figma,kali,kubernetes,redhat,nodejs,postgres,vscode,docker,postman,linux,bash,aws,googlecloud,cloudflare&perline=10"  />
 </p>
 <br />
 
@@ -83,9 +73,9 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+<!--   <tr> -->
+<!--     <td width="50%"> -->
+<!--       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/xcriminal1/xcriminal1">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=xcriminal1&repo=xcriminal1&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
@@ -95,11 +85,11 @@
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/xcriminal1">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=xcriminal1&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
+        <a href="https://github.com/xcriminal1"> -->
+<!--           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=xcriminal1&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        </a> -->
+<!--       </p> -->
+<!--     </td> -->
   </tr>
 </table>
 <br />
