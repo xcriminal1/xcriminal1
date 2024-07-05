@@ -95,49 +95,19 @@
 <br />
 
 
-
----
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 <!-- Random Programming Quote -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Programming Quote" />
 
 
 [![@isay's Holopin board](https://holopin.me/xcriminal1)](https://holopin.io/@xcriminal1)
 
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
-</p>
-
----
-<br />
-
-
-<!--Sponsor Section-->       
-<h3 align="center"><strong>Must Checkout This</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Codium-ai/pr-agent">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Codium-ai&repo=pr-agent&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
-        </a>
-      </p>
 <br />
 
 
 
 
 
-<!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/Kiran1689/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kiran1689&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
-  </a>
-</p>
-<br />
-
-
-
-<!--Dynamic Quote card updated everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
 
 
