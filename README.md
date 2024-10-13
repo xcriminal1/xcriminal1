@@ -42,7 +42,7 @@
 <a href="https://www.leetcode.com/xcriminal002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xcriminal002" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/xcriminal567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="xcriminal567" height="30" width="40" /></a>
 <br />
-
+<br />
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
@@ -97,15 +97,19 @@
 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 <!-- Random Programming Quote -->
+<p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Programming Quote" />
-
+</p>
 
 [![@isay's Holopin board](https://holopin.me/xcriminal1)](https://holopin.io/@xcriminal1)
 
 <br />
 
 
-
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
 
 
 
